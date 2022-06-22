@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @YashCerebulb
-- 👀 I’m interested in Python , ReactJs , PostgreSQL
-- 🌱 I’m currently learning Javascript ( jQuery )
+- 👋 Hi, I’m @Yash Kathrotiya
+- 👀 I’m interested in Python , ReactJs , PostgreSQL, AWS
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 yashkathrotiya7048@gmail.com
 
 <!---
 YashCerebulb/YashCerebulb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
