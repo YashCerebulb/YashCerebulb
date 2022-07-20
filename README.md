@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yash Kathrotiya
-- 👀 I’m interested in Python , ReactJs , PostgreSQL, AWS
+- 👀 I’m interested in Python, ReactJs, PostgreSQL, AWS, Terraform, WEB2 -> WEB3  
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on code! ;)
 - 📫 yashkathrotiya7048@gmail.com
