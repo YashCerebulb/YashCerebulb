@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yash Kathrotiya
 - 👀 I’m interested in Python , ReactJs , PostgreSQL, AWS
 - 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on code! ;)
 - 📫 yashkathrotiya7048@gmail.com
 
 <!---
